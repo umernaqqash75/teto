@@ -10,8 +10,8 @@ from telethon.tl.types import MessageEntityUrl, MessageEntityTextUrl,\
 from discord.file import File
 
 # Remember to use your own values from my.telegram.org!
-api_id = 9647640
-api_hash = '61b89061d385a306fafce071929baa7b'
+api_id = 3334444
+api_hash = '34545'
 tg_client = TelegramClient('anon', api_id, api_hash)
 
 
